@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @workdzen
+- 👀 I’m interested in Java programming and Web
+- 🌱 I’m currently learning Java, PHP, JavaScript, CSS3, HTML5
+- 💞️ I’m looking to collaborate on some projects which can help me learn more.
+- 📫 How to reach me: My Email address rabotazen@hotmail.com, (telegram) @jeka_gram
